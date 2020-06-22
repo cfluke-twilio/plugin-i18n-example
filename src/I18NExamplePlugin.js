@@ -1,9 +1,9 @@
 import React from 'react'
 import { FlexPlugin } from 'flex-plugin'
-import localizedStringsJp from './config/ja.js'
-import localizedStringsFr from './config/fr.js'
-import localizedStringsCn from './config/cn.js'
-import localizedStringsPt from './config/pt-br.js'
+import localizedStringsJp from './i18n/ja.js'
+import localizedStringsFr from './i18n/fr.js'
+import localizedStringsCn from './i18n/cn.js'
+import localizedStringsPt from './i18n/pt-br.js'
 
 const PLUGIN_NAME = 'I18NExamplePlugin'
 
