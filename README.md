@@ -52,3 +52,5 @@ Note: Common packages like `React`, `ReactDOM`, `Redux` and `ReactRedux` are not
 ## i18n files
 
 en.js is provided as an example of the default english values
+
+The i18n js file uses the key-values that flex expects, to try and keep as much configuration in that file and out of code as possible.
