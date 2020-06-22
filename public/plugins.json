@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plugin-i18n-example",
+    "version": "0.0.0",
+    "class": "I18NExamplePlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-i18n-example.js"
+  }
+]
